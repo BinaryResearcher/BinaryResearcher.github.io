@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="放到收发室" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AgriEngCoder&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AgriEngCoder/AgriEngCoder.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;4419a0db-1828-4f74-90b3-6035832ef682&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2uLkCVUhKIZ1Irfg4DJNIfLJiX7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.19.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.19.81&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/opt/myapps/hexo-blog&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.clean.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/root/.cache/JetBrains/RemoteDev/dist/ea9f5eb471a30_WebStorm-251.23774.114/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Backup and Sync History" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Pull Requests" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24212599" />
+      <window_info id="Commit" order="1" weight="0.23680064" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.23680064" />
+      <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.20172685" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.52660406" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2248" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.22986111" />
+      <window_info anchor="right" id="PR AI Assistant" />
+      <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32978725" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Code Search" order="5" weight="0.25742188" />
+      <window_info anchor="right" id="com.tencent.code.intel.ui.sidebar.CopilotToolWindowFactory" order="6" weight="0.33007812" />
+      <window_info anchor="right" id="JSONPathEvaluate" order="7" weight="0.32978725" />
+    </layout>
+  </component>
+  <component name="RunManager" selected="npm.clean">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="clean" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.clean" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="" />
+      <created>1742035118209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742035118209</updated>
+      <workItem from="1742035130642" duration="2063000" />
+      <workItem from="1742038104053" duration="110000" />
+      <workItem from="1742038298224" duration="1326000" />
+      <workItem from="1742039951231" duration="2663000" />
+      <workItem from="1742128097483" duration="2806000" />
+      <workItem from="1742141674077" duration="295000" />
+      <workItem from="1742141987557" duration="72000" />
+      <workItem from="1742192709050" duration="19000" />
+      <workItem from="1742192747549" duration="3119000" />
+      <workItem from="1742227020954" duration="17000" />
+      <workItem from="1742227056753" duration="82000" />
+      <workItem from="1742278093278" duration="34000" />
+      <workItem from="1742278151850" duration="625000" />
+      <workItem from="1742385327374" duration="11000" />
+      <workItem from="1742385357867" duration="1776000" />
+      <workItem from="1742433517034" duration="948000" />
+      <workItem from="1742569464678" duration="7000" />
+      <workItem from="1742609815806" duration="18000" />
+      <workItem from="1742725770750" duration="296000" />
+      <workItem from="1742738465835" duration="960000" />
+      <workItem from="1742907982945" duration="181000" />
+      <workItem from="1742908226768" duration="3062000" />
+      <workItem from="1743041048270" duration="340000" />
+      <workItem from="1743045767573" duration="24000" />
+      <workItem from="1743829761343" duration="156000" />
+      <workItem from="1743829928385" duration="622000" />
+      <workItem from="1744617195073" duration="56000" />
+      <workItem from="1744617943073" duration="373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="放到收发室" />
+    <option name="LAST_COMMIT_MESSAGE" value="放到收发室" />
+  </component>
+</project>
