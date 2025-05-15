@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="放到收发室" />
+    <list default="true" id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="放到收发室">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -38,9 +41,9 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.19.1&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.19.81&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.13.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.13.17&quot;,
     &quot;last_opened_file_path&quot;: &quot;/opt/myapps/hexo-blog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
@@ -64,7 +67,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="npm" side_tool="true" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24212599" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24246031" />
       <window_info id="Commit" order="1" weight="0.23680064" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.23680064" />
       <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
@@ -75,7 +78,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.20172685" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.34283388" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.52660406" />
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2248" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.22986111" />
@@ -92,7 +95,7 @@
       <window_info anchor="right" id="JSONPathEvaluate" order="7" weight="0.32978725" />
     </layout>
   </component>
-  <component name="RunManager" selected="npm.clean">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -115,15 +118,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.clean" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.clean" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
       </set>
     </attachedChunks>
   </component>
@@ -163,6 +166,10 @@
       <workItem from="1743829928385" duration="622000" />
       <workItem from="1744617195073" duration="56000" />
       <workItem from="1744617943073" duration="373000" />
+      <workItem from="1747278064298" duration="290000" />
+      <workItem from="1747278388437" duration="132000" />
+      <workItem from="1747278534218" duration="1000" />
+      <workItem from="1747278551302" duration="96000" />
     </task>
     <servers />
   </component>
