@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="放到收发室">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/rjgx/source/js/matery.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/rjgx/source/js/matery.js" afterDir="false" />
-    </list>
+    <list default="true" id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="删除暗黑模式" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,8 +66,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24223785" />
-      <window_info id="Commit" order="1" weight="0.23680064" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24223785" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.24223785" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.23680064" />
       <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -81,7 +78,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.4649507" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.53176343" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.52660406" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2248" />
@@ -180,8 +177,17 @@
       <workItem from="1747278534218" duration="1000" />
       <workItem from="1747278551302" duration="96000" />
       <workItem from="1749908143485" duration="39000" />
-      <workItem from="1749908209875" duration="726000" />
+      <workItem from="1749908209875" duration="1041000" />
     </task>
+    <task id="LOCAL-00001" summary="删除暗黑模式">
+      <option name="closed" value="true" />
+      <created>1749909234719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749909234719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +195,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="放到收发室" />
-    <option name="LAST_COMMIT_MESSAGE" value="放到收发室" />
+    <MESSAGE value="删除暗黑模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除暗黑模式" />
   </component>
 </project>
