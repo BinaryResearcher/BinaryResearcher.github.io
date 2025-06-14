@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="放到收发室" />
+    <list default="true" id="3d0f4e14-eff4-4d85-903d-4f2d0138b6c9" name="Changes" comment="放到收发室">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/rjgx/source/js/matery.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/rjgx/source/js/matery.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="npm" side_tool="true" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24246031" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24223785" />
       <window_info id="Commit" order="1" weight="0.23680064" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.23680064" />
       <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
@@ -73,21 +77,27 @@
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="HfCacheToolWindow" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.34283388" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.4649507" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.52660406" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2248" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.22986111" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.22946331" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.1" />
       <window_info anchor="right" id="PR AI Assistant" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Jupyter Variables" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.32978725" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
       <window_info anchor="right" id="Code Search" order="5" weight="0.25742188" />
       <window_info anchor="right" id="com.tencent.code.intel.ui.sidebar.CopilotToolWindowFactory" order="6" weight="0.33007812" />
       <window_info anchor="right" id="JSONPathEvaluate" order="7" weight="0.32978725" />
@@ -170,6 +180,7 @@
       <workItem from="1747278534218" duration="1000" />
       <workItem from="1747278551302" duration="96000" />
       <workItem from="1749908143485" duration="39000" />
+      <workItem from="1749908209875" duration="726000" />
     </task>
     <servers />
   </component>
