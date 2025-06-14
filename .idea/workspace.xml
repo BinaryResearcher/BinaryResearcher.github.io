@@ -66,8 +66,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24223785" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.24223785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24223785" />
+      <window_info id="Commit" order="1" weight="0.24223785" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.23680064" />
       <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -78,11 +78,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.53176343" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.25465497" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.52660406" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2248" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.22946331" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.52409637" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.1" />
       <window_info anchor="right" id="PR AI Assistant" />
       <window_info anchor="right" id="Endpoints" />
@@ -177,7 +177,7 @@
       <workItem from="1747278534218" duration="1000" />
       <workItem from="1747278551302" duration="96000" />
       <workItem from="1749908143485" duration="39000" />
-      <workItem from="1749908209875" duration="1041000" />
+      <workItem from="1749908209875" duration="1346000" />
     </task>
     <task id="LOCAL-00001" summary="删除暗黑模式">
       <option name="closed" value="true" />
@@ -187,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749909234719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除暗黑模式">
+      <option name="closed" value="true" />
+      <created>1749909548059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749909548059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
